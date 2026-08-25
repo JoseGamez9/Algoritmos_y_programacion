@@ -1,4 +1,5 @@
-Algoritmo VerificarMayoriaEdad // Jose Gamez
+// Jose Gamez
+Algoritmo VerificarMayoriaEdad
 	Escribir "ingrese año actual"
 	Leer anioActual
 	Escribir "ingrese su año de nacimiento"
