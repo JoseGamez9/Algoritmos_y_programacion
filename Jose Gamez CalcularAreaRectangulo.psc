@@ -1,4 +1,5 @@
-Algoritmo VerificarMayoriaEdaFinAlgoritmo //Jose Gamez 
+// Jose Gamez
+Algoritmo VerificarMayoriaEdaFinAlgoritmo
 Escribir "Ingresa el año actual"          // entrada 
 leer anioActual
 Escribir "Ingrese su año de nacimiento"
