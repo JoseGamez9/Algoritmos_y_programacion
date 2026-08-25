@@ -1,4 +1,4 @@
-Algoritmo TiposDeInstrucciones
+Algoritmo TiposDeInstrucciones Jose Gamez
 	// Instrucciones De Declaracion 
 	Definir p, q, resultado Como Entero
 	
