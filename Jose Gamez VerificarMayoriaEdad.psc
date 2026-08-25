@@ -1,7 +1,7 @@
-Algoritmo VerificarMayoriaEdad
-	Escribir "ingrese año actual"
+Algoritmo VerificarMayoriaEdad // Jose Gamez
+	Escribir "ingrese aÃ±o actual"
 	Leer anioActual
-	Escribir "ingrese su año de nacimiento"
+	Escribir "ingrese su aÃ±o de nacimiento"
 	Leer anioNacimiento
 	edad <- anioActual - anioNacimiento
 	Si edad >= 18 Entonces
